@@ -1,0 +1,48 @@
+/* Estilos personalizados */
+
+body {
+           
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f7f6; 
+  margin: 0;
+  padding: 0;
+}        
+h1,h2,h3{
+  color: #00bcd4;
+  font-weight: 800;
+}
+h4 {
+    color: #818181;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+header {
+  text-align: center;
+  padding: 40px;
+}
+
+header h1 {
+  margin: 0;
+        
+}
+
+header p {
+  margin: 4px;
+  font-size: 1.5rem;
+  color: #6b7280;
+}
+ li{
+    margin-bottom: 20px;
+}
+ul{
+    padding: 20px;
+    list-style-type: none;
+}
+
+.cont{
+    text-align: center;
+}
+p{
+  color: blue;
+}
